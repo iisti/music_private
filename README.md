@@ -10,7 +10,7 @@ A repository for saving music related stuff.
   äänitys: DI rec päälle
   ~~~
 
-* Lataa youtube-biisejä <https://en.loader.to/4/?link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Da2giXO6eyuI&f=wav&s=1&e=1&r=y2downcc>
+* Lataa youtube-biisejä <https://en.loader.to/>
 
 
 ## Kitaralle
