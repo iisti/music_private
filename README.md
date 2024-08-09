@@ -56,9 +56,18 @@ W1 Limiter http://www.yohng.com/software/w1limit.html
 ### Tempo kohilleen
 https://www.youtube.com/watch?v=PlGnzK7GiSU
 
+### Lisää isku tahtiin
+
+* Shift + C, ja sitten tahtilaji kohdilleen.
+
 ### Pikanäppäinyhdistelmät
 
 <https://user.cockos.com/~glazfolk/ReaperKeyboardShortcuts.pdf>
+
+#### Vaihda snap gridin tarkkuus
+
+* Alt + S = snap grid päälle pois
+* Snap gridin tarkkuuden voi vaihtaa klikkaamalla oikealla hiiren painikkeella magneetti-ikonia vasemmalla ylhäällä (metronomin lähellä).
 
 #### Monta äänityskierrosta, valitse paras
 
@@ -70,7 +79,6 @@ https://www.youtube.com/watch?v=PlGnzK7GiSU
 * v = Volume Envelope
 * shift+click = insert point
 * ctrl+shift kahden pisteen välillä = säädä voimakkuutta vain sillä välilä
-
 
 ## Ohjeita äänitykseen
 
