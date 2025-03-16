@@ -16,13 +16,20 @@ A repository for saving music related stuff.
 ## Kitaralle
 
 1. Asenna pluginit:
-    STL Tones Ignite Emissary Bundle
-        Sisältää STL Tones Ignite NadIR
-        C:\Program Files\Steinberg\VSTPlugins
-        C:\Program Files (x86)\Steinberg\VSTPlugins
-    Stillwell Audio, Vibe EQ
-        C:\Program Files\Steinberg\VSTPlugins
-        C:\Program Files (x86)\Steinberg\VSTPlugins
+    * STL Tones Ignite Emissary Bundle, STL_Ignite_-_Emissary_Plug-In_Bundle_V2.0.2_Win.zip   
+
+      ~~~text
+      Sisältää STL Tones Ignite NadIR
+      C:\Program Files\Steinberg\VSTPlugins
+      C:\Program Files (x86)\Steinberg\VSTPlugins
+      ~~~
+
+    * Stillwell Audio, Vibe EQ, Vibe EQ Installer.exe
+
+      ~~~text
+      C:\Program Files\Steinberg\VSTPlugins
+      C:\Program Files (x86)\Steinberg\VSTPlugins
+      ~~~
 
 1. Konfiguroi imainen-kitaramallinnus
     1. Pura zip ja kopioi metal-chain.RfxChain kansioon
